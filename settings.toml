@@ -1,0 +1,14 @@
+[creative_tonies.C295B412500304E0]
+podcast = "https://feeds.br.de/lachlabor/feed.xml"
+name = "Haaland"
+maximum_length = 90
+
+[creative_tonies.98A85F10500304E0]
+podcast = "https://www.mdr.de/sachsenradio/podcast/kruemel/audiogalerie-kruemel100-podcast.xml"
+name = "Kreativ-Tonie"
+maximum_length = 90
+
+[creative_tonies.8561BE13500304E0]
+podcast = "https://www.kakadu.de/kakadu-104.xml"
+name = "Linus-Tonie"
+maximum_length = 90
