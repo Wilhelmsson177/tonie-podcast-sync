@@ -1,5 +1,4 @@
 """The command line interface module for the tonie-podcast-sync."""
-import contextlib
 from pathlib import Path
 
 import tomli_w
